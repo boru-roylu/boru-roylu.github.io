@@ -26,7 +26,12 @@ I am Bo-Ru (Roy) Lu, a 1st year NLP Ph.D. student at the University of Washingto
 Email: roylu at uw dot edu  
 <a href="files/boru_roylu.pdf" target="_blank">CV</a>.
 
-<p align="center"><img src="https://boru-roylu.github.io/images/logo_uw.png" width="100px">  <img src="https://boru-roylu.github.io/images/logo_uwnlp.png" width="120px">  <img src="https://boru-roylu.github.io/images/logo_ntu.png" width="250px"></p>
+<p align="center">
+<img src="images/logo_uw.png" width="100px">
+<img src="images/logo_uwnlp.png" width="120px">
+<img src="/images/logo_apple.png" width="100px">
+<img src="/images/logo_ntu.png" width="250px">
+</p>
 
 * Currectly, I am doing my internship at [Salesforce Research](https://einstein.ai/) (MetaMind), Palo Alto, CA.
 
