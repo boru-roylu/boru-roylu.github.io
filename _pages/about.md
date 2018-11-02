@@ -21,21 +21,15 @@ redirect_from:
 -->
 
 Welcome!  
-I am Bo-Ru (Roy) Lu, currently a 1st year NLP Ph.D. student at the University of Washington-Seattle working with <a href="https://ssli.ee.washington.edu/people/mo/" >Mari Ostendorf</a>. My research interests span deep learning and its application on language and speech processing. Feel free to Contact me if you are interested in my research or have any questions. I am more than happy to hear from you!  
+I am Bo-Ru (Roy) Lu, a 1st year NLP Ph.D. student at the University of Washington-Seattle working with <a href="https://ssli.ee.washington.edu/people/mo/" >Mari Ostendorf</a>. My research interests span deep learning and its application on language and speech processing. Feel free to Contact me if you are interested in my research or have any questions. I am more than happy to hear from you!  
 
 Email: roylu at uw dot edu  
 <a href="files/boru_roylu.pdf" target="_blank">CV</a>.
 
-<p align="center"><img src="https://boru-roylu.github.io/images/logo_uw.png" height="200">  <img src="https://boru-roylu.github.io/images/logo_uwnlp.png" height="200"></p>
-
-<p align="center">
-<img src="https://jasonwu0731.github.io/images/salesforce-research.png" width="200">
-</p>
+<p align="center"><img src="https://boru-roylu.github.io/images/logo_uw.png" width="100px">  <img src="https://boru-roylu.github.io/images/logo_uwnlp.png" width="110px"></p>
 
 * Currectly, I am doing my internship at [Salesforce Research](https://einstein.ai/) (MetaMind), Palo Alto, CA.
 
-<p align="center"><img src="https://jasonwu0731.github.io/images/logo_ust.png" width="10">   <img src="https://jasonwu0731.github.io/images/logo_caire.jpg" width="200">   <img src="https://jasonwu0731.github.io/images/logo_hltc.jpg" width="80"></p>
-  
 * I am a MPhil student in [Electronic & Computer Engineering](http://www.ece.ust.hk/ece.php) at [HKUST](http://www.ust.hk/zh-hant/), working with [Prof. Pascale Fung](http://www.ece.ust.hk/~pascale/) in [Center for AI Research](http://caire-dev-d8.sites1.ust.hk/) (CAiRE) and [Human Language Technology Center](https://www.cse.ust.hk/~hltc/) (HLTC).
 
 <p align="center"><img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="200">   <img src="https://jasonwu0731.github.io/images/logo_as.svg" width="80"></p>
