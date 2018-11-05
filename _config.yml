@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Bo-Ru (Roy) Lu"
   avatar           : "roy_profile.jpg"
-  bio              : "Natural Language & Speech Processing, Deep Learning"
+  bio              : "Deep Learning, Natural Language & Speech Processing"
   location         : "Seattle, WA"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "University of Washington"
+  googlescholar    : "https://scholar.google.com.tw/citations?user=3YSTzIEAAAAJ&hl"
   email            : "roylu@uw.edu"
   uri              :
   bitbucket        :
@@ -99,14 +99,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "boru-roylu"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
