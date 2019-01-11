@@ -22,11 +22,11 @@ redirect_from:
 
 Welcome!  
   
-I am Bo-Ru (Roy) Lu, a PhD student in <a href="https://nlp.washington.edu/">natural language processing (NLP) group</a> at the University of Washington, under the supervision of Professor <a href="https://ssli.ee.washington.edu/people/mo/" >Mari Ostendorf</a>. My research interests span deep learning and its application on natural language generation and understanding.  
+Bo-Ru (Roy) Lu is a first-year PhD student in <a href="https://nlp.washington.edu/">Natural Language Processing (NLP) Group</a> and <a href="http://tial-uw.github.io/">Transformation, Interpretation and Analysis of Language (TIAL) Group"</a> at the University of Washington, under the supervision of Professor <a href="https://ssli.ee.washington.edu/people/mo/" >Mari Ostendorf</a>. His research interests focus on deep learning and its application on natural language generation and understanding, especially in conversational question answering.
   
-Feel free to Contact me if you are interested in my research or have any questions. I am more than happy to hear from you!  
+Feel free to contact me if you are interested in my research or have any questions. I am more than happy to hear from you!  
 
-Email: roylu at uw dot edu  
+Email: roylu [at] uw [dot] edu  
 CV: <a href="files/boru_roylu.pdf" target="_blank">here</a>.
 
 <p align="center">
