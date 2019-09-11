@@ -22,7 +22,7 @@ redirect_from:
 
 Welcome!  
   
-I am a first-year PhD student in <a href="https://nlp.washington.edu/">Natural Language Processing (NLP) Group</a> at the University of Washington. My advisor is Dr. <a href="https://ssli.ee.washington.edu/people/mo/" >Mari Ostendorf</a>. My research interests focus on deep learning and its applications on natural language generation.
+I am a PhD student in <a href="https://nlp.washington.edu/">Natural Language Processing (NLP) Group</a> at the University of Washington. My advisor is Dr. <a href="https://ssli.ee.washington.edu/people/mo/" >Mari Ostendorf</a>. My research interests focus on deep learning and its applications on natural language generation.
   
 Feel free to contact me if you are interested in my research or have any questions. I am more than happy to hear from you!  
 
