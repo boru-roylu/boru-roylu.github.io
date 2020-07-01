@@ -32,6 +32,7 @@ CV: <a href="files/boru_roylu.pdf" target="_blank">pdf</a>.
 <p align="center">
 <img src="images/logo_uw.png" width="100px">
 <img src="images/logo_uwnlp.png" width="120px">
+<img src="images/logo_microsoft.png" width="120px">
 <img src="/images/logo_apple.png" width="80px">
 <img src="/images/logo_ntu.png" width="350px">
 </p>
