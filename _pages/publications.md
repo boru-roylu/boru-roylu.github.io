@@ -11,7 +11,7 @@ author_profile: true
 
 <b>[Unsupervised Learning of Hierarchical Conversation Structure]()</b>
 <br> Bo-Ru Lu,  Yushi Hu, Hao Cheng, Noah A. Smith, Mari Ostendorf.
-<br> Arxiv, 2021.
+<br> Arxiv, 2022.
 <br> [[PDF]](https://arxiv.org/abs/2205.12244.pdf) [[CODE]](https://github.com/boru-roylu/THETA)
 
 <b>[DIALKI: Knowledge Identification in Conversational Systems through Dialogue-Document Contextualization]()</b>
