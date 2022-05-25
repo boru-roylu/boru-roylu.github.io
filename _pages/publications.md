@@ -9,6 +9,11 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+<b>[Unsupervised Learning of Hierarchical Conversation Structure]()</b>
+<br> Bo-Ru Lu,  Yushi Hu, Hao Cheng, Noah A. Smith, Mari Ostendorf.
+<br> Arxiv, 2021.
+<br> [[PDF]](https://arxiv.org/abs/2205.12244.pdf) [[CODE]](https://github.com/boru-roylu/THETA)
+
 <b>[DIALKI: Knowledge Identification in Conversational Systems through Dialogue-Document Contextualization]()</b>
 <br> Zeqiu Wu\*, Bo-Ru Lu\*, Hannaneh Hajishirzi, Mari Ostendorf.
 <br> \*Equal contribution.
