@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Bo-Ru (Roy) Lu"
   avatar           : "roy_profile.jpg"
-  bio              : "Deep Learning, Natural Language & Speech Processing"
+  bio              : "Deep Learning & Natural Language Processing"
   location         : "Seattle, WA"
   employer         : "University of Washington"
+  semanticscholar  : "https://scholar.google.com.tw/citations?user=3YSTzIEAAAAJ&hl"
   googlescholar    : "https://scholar.google.com.tw/citations?user=3YSTzIEAAAAJ&hl"
   email            : "roylu@uw.edu"
   uri              :
@@ -106,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "https://twitter.com/Dapy21378109"
   vine             :
   weibo            :
   xing             :
