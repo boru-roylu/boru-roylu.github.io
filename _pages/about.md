@@ -3,36 +3,22 @@ permalink: /
 title: "About Me"
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<!-- News
+About Me
 ========
-* Apr 2018 : Our paper *Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems* by ACL 2018 
-* Jan 2018 : Our paper *End-to-End Dynamic Query Memory Network for Entity-Value Independent Task-oriented Dialog* by ICASSP 2018 
-* Nov 2017 : Our work *End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning* got 2nd place in DSTC6  --> 
+I am a fifth-year PhD student in <a href="http://tial-uw.github.io/">Transformation, Interpretation, and Analysis of Language (TIAL) lab</a> and <a href="https://nlp.washington.edu/">Natural Language Processing (NLP) Group</a> at the University of Washington. My advisor is Dr. <a href="https://ssli.ee.washington.edu/people/mo/" >Mari Ostendorf</a>. My research interests focus on deep learning and its applications on conversational natural language.
 
-<!---
-<p align="center">
-  <kbd><img src="https://jasonwu0731.github.io/images/HKUST.JPEG" alt="Photo"/></kbd>
-</p>
--->
+Feel free to contact me if you are interested in my research or have any questions. I am more than happy to hear from you!
 
-Welcome!  
-  
-I am a PhD student in <a href="http://tial-uw.github.io/">Transformation, Interpretation, and Analysis of Language (TIAL) lab</a> and <a href="https://nlp.washington.edu/">Natural Language Processing (NLP) Group</a> at the University of Washington. My advisor is Dr. <a href="https://ssli.ee.washington.edu/people/mo/" >Mari Ostendorf</a>. My research interests focus on deep learning and its applications on conversational natural language.
-  
-Feel free to contact me if you are interested in my research or have any questions. I am more than happy to hear from you!  
-
-Email: roylu [at] uw [dot] edu  
+Email: roylu [at] uw [dot] edu
 CV: <a href="files/boru_roylu.pdf" target="_blank">pdf</a>.
 
-<!-- Dream Big, then try my best to Do Bigger. Please feel free to browse through my profile and contact me.  style="color: #ff0000;" -->
-
-
-
-<!-- For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+News
+========
+* Oct 2022 : Our paper *Unsupervised Learning of Hierarchical Conversation Structure* is accept by EMNLP 2022 Findings.
+* Sep 2021 : Our paper *DIALKI: Knowledge Identification in Conversational Systems through Dialogue-Document Contextualization* is accept by EMNLP 2021.
+* Aug 2021 : Our team wins *1st prize of [DialDoc](https://doc2dial.github.io/) Shared Task subtask 1* in the 1st DialDoc Workshop at ACL 2021.
