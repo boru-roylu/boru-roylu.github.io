@@ -19,7 +19,7 @@ author_profile: true
 <br> Zeqiu Wu\*, Bo-Ru Lu\*, Hannaneh Hajishirzi, Mari Ostendorf.
 <br> \*Equal contribution.
 <br> In Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021.
-<br> [[paper]](https://aclanthology.org/2021.emnlp-main.140.pdf) [[poster]](https://boru-roylu.github.io/files/dialki_poster_emnlp_2021.pdf) [[code]](https://github.com/ellenmellon/DIALKI) [[bitext]](https://boru-roylu.github.io/files/bibtex/wu-etal-2021-dialki.txt)
+<br> [[paper]](https://aclanthology.org/2021.emnlp-main.140.pdf) [[poster]](https://boru-roylu.github.io/files/dialki_poster_emnlp_2021.pdf) [[code]](https://github.com/ellenmellon/DIALKI) [[bibtex]](https://boru-roylu.github.io/files/bibtex/wu-etal-2021-dialki.txt)
 
 <b>A Multi-Passage Knowledge Selector for Information-Seeking Dialogues</b>
 <br> Zeqiu Wu\*, Bo-Ru Lu\*, Hannaneh Hajishirzi, Mari Ostendorf.
