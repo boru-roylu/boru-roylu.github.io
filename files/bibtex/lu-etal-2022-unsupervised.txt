@@ -6,7 +6,6 @@
       Smith, Noah A. and
       Ostendorf, Mari",
     booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
-    month = dec,
     year = "2022",
     publisher = "Association for Computational Linguistics",
 }
