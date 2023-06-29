@@ -31,4 +31,4 @@ author_profile: true
 <b>Order-Preserving Abstractive Summarization for Spoken Content Based on Connectionist Temporal Classification</b>
 <br> Bo-Ru Lu, Frank Shyu, Yun-Nung Chen, Hung-yi Lee, Lin-shan Lee.
 <br> In Proceedings of the Conference on the International Speech Communication Association (INTERSPEECH), 2017. 
-<br> [[paper]](https://www.isca-speech.org/archive/pdfs/interspeech_2017/lu17b_interspeech.pdf)
+<br> [[paper]](https://www.isca-speech.org/archive_v0/Interspeech_2017/abstracts/0862.html) [[bibtex]](https://boru-roylu.github.io/files/bibtex/lu-etal-2017-order.txt)

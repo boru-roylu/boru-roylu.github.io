@@ -1,0 +1,9 @@
+@inproceedings{Lu2017,
+  author={Bo-Ru Lu and Frank Shyu and Yun-Nung Chen and Hung-Yi Lee and Lin-Shan Lee},
+  title={Order-Preserving Abstractive Summarization for Spoken Content Based on Connectionist Temporal Classification},
+  year=2017,
+  booktitle={Proc. Interspeech 2017},
+  pages={2899--2903},
+  doi={10.21437/Interspeech.2017-862},
+  url={http://dx.doi.org/10.21437/Interspeech.2017-862}
+}
