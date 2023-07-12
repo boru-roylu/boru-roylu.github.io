@@ -9,6 +9,11 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+<b>Collaborative Human-LM Generated Dialogues for Improved Understanding of Human-Human Conversations</b>
+<br> Bo-Ru Lu\*, Nikita Haduong\*, Chia-Hsuan Lee, Zeqiu Wu, Hao Cheng,
+Paul Koester, Jean Utke, Tao Yu, Noah A. Smith Mari Ostendorf.
+<br> Preprint. 2023.
+<br> [[project page]](https://nlp.borulu.com/DialGen)
 
 <b>Unsupervised Learning of Hierarchical Conversation Structure</b>
 <br> Bo-Ru Lu,  Yushi Hu, Hao Cheng, Noah A. Smith, Mari Ostendorf.

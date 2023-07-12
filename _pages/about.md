@@ -17,6 +17,7 @@ CV: <a href="files/boru_roylu.pdf" target="_blank">pdf</a>.
 
 News
 ========
+* July 2023 : Our paper *Collaborative Human-LM Generated Dialogues for Improved Understanding of Human-Human Conversations* is public now! Code and demo will be available soon!
 * Oct 2022 : Our paper *Unsupervised Learning of Hierarchical Conversation Structure* is accept by EMNLP 2022 Findings.
 * Sep 2021 : Our paper *DIALKI: Knowledge Identification in Conversational Systems through Dialogue-Document Contextualization* is accept by EMNLP 2021.
 * Aug 2021 : Our team wins *1st prize of [DialDoc](https://doc2dial.github.io/) Shared Task subtask 1* in the 1st DialDoc Workshop at ACL 2021.
