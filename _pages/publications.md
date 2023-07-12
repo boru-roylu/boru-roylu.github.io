@@ -12,6 +12,7 @@ author_profile: true
 <b>Collaborative Human-LM Generated Dialogues for Improved Understanding of Human-Human Conversations</b>
 <br> Bo-Ru Lu\*, Nikita Haduong\*, Chia-Hsuan Lee, Zeqiu Wu, Hao Cheng,
 Paul Koester, Jean Utke, Tao Yu, Noah A. Smith Mari Ostendorf.
+<br> \*Equal contribution.
 <br> Preprint. 2023.
 <br> [[project page]](https://nlp.borulu.com/DialGen)
 
