@@ -1,0 +1,8 @@
+@misc{lu2023dialgen,
+      title={DIALGEN: Collaborative Human-LM Generated Dialogues for Improved Understanding of Human-Human Conversations}, 
+      author={Bo-Ru Lu and Nikita Haduong and Chia-Hsuan Lee and Zeqiu Wu and Hao Cheng and Paul Koester and Jean Utke and Tao Yu and Noah A. Smith and Mari Ostendorf},
+      year={2023},
+      eprint={2307.07047},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
