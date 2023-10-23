@@ -14,7 +14,7 @@ author_profile: true
 Paul Koester, Jean Utke, Tao Yu, Noah A. Smith Mari Ostendorf.
 <br> \*Equal contribution.
 <br> Preprint. 2023.
-<br> [[project page]](https://nlp.borulu.com/DialGen) [[paper]](https://arxiv.org/abs/2307.07047) [[code]](https://github.com/boru-roylu/DialGenModel/tree/main) [[data]](https://github.com/boru-roylu/DialGenModel/tree/main/dialgen_data/v1.0) [[bibtex]](https://boru-roylu.github.io/files/bibtex/lu-etal-2023-dialgen.txt)
+<br> [[project page]](https://nlp.borulu.com/DialGen) [[paper]](https://arxiv.org/abs/2307.07047) [[code]](https://github.com/boru-roylu/DialGenModel/tree/main) [[data]](https://github.com/boru-roylu/DialGenModel/tree/main/dialgen_data/v1.0) [[bibtex]](https://boru-roylu.github.io/files/bibtex/lu-etal-2023-dialgen.txt) [[interface]](https://github.com/boru-roylu/DialGenFramework)
 
 <b>Unsupervised Learning of Hierarchical Conversation Structure</b>
 <br> Bo-Ru Lu,  Yushi Hu, Hao Cheng, Noah A. Smith, Mari Ostendorf.
