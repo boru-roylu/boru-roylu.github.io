@@ -13,6 +13,7 @@ I am a final year PhD student in <a href="http://tial-uw.github.io/">Transformat
 Feel free to contact me if you are interested in my research or have any questions. I am more than happy to hear from you!
 
 Email: roylu [at] uw [dot] edu
+
 CV: <a href="files/boru_roylu.pdf" target="_blank">pdf</a>.
 
 News
