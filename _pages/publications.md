@@ -5,23 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-<b>Collaborative Human-LM Generated Dialogues for Improved Understanding of Human-Human Conversations</b>
+<b><span style="font-variant:small-caps;">DialGen</span>: Collaborative Human-LM Generated Dialogues for Improved Understanding of Human-Human Conversations</b>
 <br> Bo-Ru Lu\*, Nikita Haduong\*, Chia-Hsuan Lee, Zeqiu Wu, Hao Cheng,
 Paul Koester, Jean Utke, Tao Yu, Noah A. Smith Mari Ostendorf.
 <br> \*Equal contribution.
 <br> Preprint. 2023.
-<br> [[project page]](https://nlp.borulu.com/DialGen) [[paper]](https://arxiv.org/abs/2307.07047) [[code]](https://github.com/boru-roylu/DialGenModel/tree/main) [[data]](https://github.com/boru-roylu/DialGenModel/tree/main/dialgen_data/v1.0) [[bibtex]](https://boru-roylu.github.io/files/bibtex/lu-etal-2023-dialgen.txt) [[interface]](https://github.com/boru-roylu/DialGenFramework)
+<br> [[project page]](https://nlp.borulu.com/DialGen) [[paper]](https://arxiv.org/abs/2307.07047) [[code]](https://github.com/boru-roylu/DialGenModel/tree/main) [[data]](https://github.com/boru-roylu/DialGenModel/tree/main/dialgen_data/v1.0) 
+[[interface]](https://github.com/boru-roylu/DialGenFramework) [[bibtex]](https://boru-roylu.github.io/files/bibtex/lu-etal-2023-dialgen.txt) 
 
 <b>Unsupervised Learning of Hierarchical Conversation Structure</b>
 <br> Bo-Ru Lu,  Yushi Hu, Hao Cheng, Noah A. Smith, Mari Ostendorf.
 <br> In Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022.
 <br> [[paper]](https://aclanthology.org/2022.findings-emnlp.415) [[code]](https://github.com/boru-roylu/THETA) [[bibtex]](https://boru-roylu.github.io/files/bibtex/lu-etal-2022-unsupervised.txt)
 
-<b>DIALKI: Knowledge Identification in Conversational Systems through Dialogue-Document Contextualization</b>
+<b><span style="font-variant:small-caps;">DialKi</span>: Knowledge Identification in Conversational Systems through Dialogue-Document Contextualization</b>
 <br> Zeqiu Wu\*, Bo-Ru Lu\*, Hannaneh Hajishirzi, Mari Ostendorf.
 <br> \*Equal contribution.
 <br> In Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021.
