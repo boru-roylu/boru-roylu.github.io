@@ -18,6 +18,7 @@ CV: <a href="files/boru_roylu.pdf" target="_blank">pdf</a>.
 
 News
 ========
+* Mar 2024: Our paper *Encode Once and Decode in Parallel: Efficient Transformer Decoding* is on [Arxiv](https://arxiv.org/abs/2403.13112)! Code will be released soon!
 * Oct 2023: DIALGEN code and data are released! [[code]](https://github.com/boru-roylu/DialGenModel/tree/main) [[data]](https://github.com/boru-roylu/DialGenModel/tree/main/dialgen_data/v1.0) [[interface]](https://github.com/boru-roylu/DialGenFramework) [[project]](https://nlp.borulu.com/DialGen/)
 * July 2023: Our paper *DIALGEN: Collaborative Human-LM Generated Dialogues for Improved Understanding of Human-Human Conversations* is on [Arxiv](https://arxiv.org/abs/2307.07047)!
 * Oct 2022: Our paper *Unsupervised Learning of Hierarchical Conversation Structure* is accept by EMNLP 2022 Findings.
