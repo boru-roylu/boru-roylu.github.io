@@ -1,0 +1,8 @@
+@misc{lu2024encode,
+      title={Encode Once and Decode in Parallel: Efficient Transformer Decoding}, 
+      author={Bo-Ru Lu and Nikita Haduong and Chien-Yu Lin and Hao Cheng and Noah A. Smith and Mari Ostendorf},
+      year={2024},
+      eprint={2403.13112},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}

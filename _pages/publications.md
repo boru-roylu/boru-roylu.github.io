@@ -8,7 +8,7 @@ author_profile: true
 <b>Encode Once and Decode in Parallel: Efficient Transformer Decoding</b>
 <br> Bo-Ru Lu, Nikita Haduong, Chien-Yu Lin, Hao Cheng, Noah A. Smith, Mari Ostendorf.
 <br> Preprint. 2024.
-<br> [[paper]](https://arxiv.org/abs/2403.13112)
+<br> [[paper]](https://arxiv.org/abs/2403.13112) [[bibtex]](https://boru-roylu.github.io/files/bibtex/lu-etal-2024-encode.txt)
 
 <!-- <b><span style="font-variant:small-caps;">DialGen</span>: Collaborative Human-LM Generated Dialogues for Improved Understanding of Human-Human Conversations</b>-->
 <b>Does Collaborative Human-LM Dialogue Generation Help Information Extraction from Human Dialogues?</b>
