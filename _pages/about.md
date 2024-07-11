@@ -23,6 +23,7 @@ You can download my resume here: <a href="files/boru_roylu.pdf" target="_blank">
 
 💥News💥
 ========
+* July 2024: I passed my defense!
 * July 2024: Our paper [Does Collaborative Human–LM Dialogue Generation Help Information Extraction from Human–Human Dialogues?](https://arxiv.org/abs/2307.07047) is accepted by CoLM! We will upload the latest version soon!
 * Mar 2024: Our paper [Efficient Encoder-Decoder Transformer Decoding for Decomposable Tasks](https://arxiv.org/abs/2403.13112) is on ArXiv! 
 * Oct 2023: DIALGEN code and data are released! [[code]](https://github.com/boru-roylu/DialGenModel/tree/main) [[data]](https://github.com/boru-roylu/DialGenModel/tree/main/dialgen_data/v1.0) [[project]](https://nlp.borulu.com/DialGen/)
