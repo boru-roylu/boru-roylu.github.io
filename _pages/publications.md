@@ -5,17 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Encode Once and Decode in Parallel: Efficient Transformer Decoding</b>
+<b>Efficient Encoder-Decoder Transformer Decoding for Decomposable Tasks</b>
 <br> Bo-Ru Lu, Nikita Haduong, Chien-Yu Lin, Hao Cheng, Noah A. Smith, Mari Ostendorf.
-<br> Preprint. 2024.
+<br> Under review. Preprint, 2024.
 <br> [[paper]](https://arxiv.org/abs/2403.13112) [[bibtex]](https://boru-roylu.github.io/files/bibtex/lu-etal-2024-encode.txt)
 
 <!-- <b><span style="font-variant:small-caps;">DialGen</span>: Collaborative Human-LM Generated Dialogues for Improved Understanding of Human-Human Conversations</b>-->
-<b>Does Collaborative Human-LM Dialogue Generation Help Information Extraction from Human Dialogues?</b>
+<b>does Collaborative Human-LM Dialogue Generation Help Information Extraction from Human-Human Dialogues?</b>
 <br> Bo-Ru Lu\*, Nikita Haduong\*, Chia-Hsuan Lee, Zeqiu Wu, Hao Cheng,
 Paul Koester, Jean Utke, Tao Yu, Noah A. Smith, Mari Ostendorf.
 <br> \*Equal contribution.
-<br> Preprint. 2023.
+<br> Conference on Language Model (CoLM), 2024.
 <br> [[project page]](https://nlp.borulu.com/DialGen) [[paper]](https://arxiv.org/abs/2307.07047) [[code]](https://github.com/boru-roylu/DialGenModel/tree/main) [[data]](https://github.com/boru-roylu/DialGenModel/tree/main/dialgen_data/v1.0) [[bibtex]](https://boru-roylu.github.io/files/bibtex/lu-etal-2023-dialgen.txt) 
 
 <b>Unsupervised Learning of Hierarchical Conversation Structure</b>
