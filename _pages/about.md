@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD student at the University of Washington. My advisor is Dr. <a href="https://people.ece.uw.edu/ostendorf/" >Mari Ostendorf</a>. I am a member of <a href="https://nlp.washington.edu/">UW Natural Language Processing (NLP) Group</a>.
+I am an NLP PhD graduated from the University of Washington. My advisor is Dr. <a href="https://people.ece.uw.edu/ostendorf/" >Mari Ostendorf</a>. I was a member of <a href="https://nlp.washington.edu/">UW Natural Language Processing (NLP) Group</a>.
 
 My research interests focus on deep learning, speech and language processing, and model inference efficiency.
 
