@@ -17,6 +17,7 @@ Feel free to contact me if you are interested in my research or have any questio
 ⭐ **I am currently seeking research scientist/engineer opportunities.** ⭐
 
 UW Email: roylu [at] uw [dot] edu
+
 Personal Email: roy.brlu [at] gmail [dot] com
 
 You can download my resume here: <a href="files/boru_roylu.pdf" target="_blank">pdf</a>. (Last Update: July, 2024).

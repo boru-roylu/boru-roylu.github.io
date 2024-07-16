@@ -11,7 +11,7 @@ author_profile: true
 <br> [[paper]](https://arxiv.org/abs/2403.13112) [[bibtex]](https://boru-roylu.github.io/files/bibtex/lu-etal-2024-encode.txt)
 
 <!-- <b><span style="font-variant:small-caps;">DialGen</span>: Collaborative Human-LM Generated Dialogues for Improved Understanding of Human-Human Conversations</b>-->
-<b>does Collaborative Human-LM Dialogue Generation Help Information Extraction from Human-Human Dialogues?</b>
+<b>Does Collaborative Human-LM Dialogue Generation Help Information Extraction from Human-Human Dialogues?</b>
 <br> Bo-Ru Lu\*, Nikita Haduong\*, Chia-Hsuan Lee, Zeqiu Wu, Hao Cheng,
 Paul Koester, Jean Utke, Tao Yu, Noah A. Smith, Mari Ostendorf.
 <br> \*Equal contribution.
