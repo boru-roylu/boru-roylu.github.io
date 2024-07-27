@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an NLP PhD graduated from the University of Washington. My advisor is Dr. <a href="https://people.ece.uw.edu/ostendorf/" >Mari Ostendorf</a>. I also work closely with <a href="https://nasmith.github.io/"> Noah A. Smith</a> and <a href="https://sites.google.com/site/hcheng2site/Home">Hao Cheng</a> during my PhD study. I am a member of <a href="https://nlp.washington.edu/">UW Natural Language Processing (NLP) Group</a>.
+I obtained my PhD from University of Washington.
+My advisor is Dr. <a href="https://people.ece.uw.edu/ostendorf/" >Mari Ostendorf</a>. I also work closely with <a href="https://nasmith.github.io/"> Noah A. Smith</a> and <a href="https://sites.google.com/site/hcheng2site/Home">Hao Cheng</a> during my PhD study. 
 
 My research interests focus on dialogue systems and model inference efficiency.
 
