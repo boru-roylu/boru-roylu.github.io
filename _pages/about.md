@@ -8,22 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my PhD from the University of Washington.
-My advisor was Dr. <a href="https://people.ece.uw.edu/ostendorf/" >Mari Ostendorf</a>. I also worked closely with <a href="https://nasmith.github.io/"> Noah A. Smith</a> and <a href="https://sites.google.com/site/hcheng2site/Home">Hao Cheng</a> during my PhD study. 
-My research interests focus on dialogue systems and model inference efficiency.
+I earned my PhD from the University of Washington, where I was advised by <a href="https://people.ece.uw.edu/ostendorf/">Dr. Mari Ostendorf</a>. 
+During my doctoral studies, I also collaborated closely with <a href="https://nasmith.github.io/">Noah A. Smith</a> and <a href="https://sites.google.com/site/hcheng2site/Home">Hao Cheng</a>. 
+My research primarily focuses on dialogue systems and enhancing model inference efficiency.
 
 Feel free to contact me if you are interested in my research or have any questions. I am more than happy to hear from you!
 
-⭐ **I am currently seeking research scientist/engineer opportunities.** ⭐
-
-UW Email: roylu [at] uw [dot] edu
-
-Personal Email: roy.brlu [at] gmail [dot] com
+Email: roy.brlu [at] gmail [dot] com
 
 You can download my resume here: <a href="files/boru_roylu.pdf" target="_blank">pdf</a>. (Last Update: July, 2024).
 
 News
 ========
+* Oct 2024: I join Amazon as an applied scientist to develop audio foundation models.
 * July 2024: I passed my defense! Thesis title: Enhancing Transformer Models for Dialogue Summarization.
 * July 2024: Our paper [Does Collaborative Human–LM Dialogue Generation Help Information Extraction from Human–Human Dialogues?](https://arxiv.org/abs/2307.07047) is accepted by CoLM!
 * Mar 2024: Our paper [Efficient Encoder-Decoder Transformer Decoding for Decomposable Tasks](https://arxiv.org/abs/2403.13112) is on ArXiv! 
